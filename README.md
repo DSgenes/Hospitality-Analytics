@@ -114,7 +114,7 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 
 • Show some decimal points.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/2ae366ae8a6b2f07bf1634ef883392023d4c2ec7/Screenshot%2012.png)
 
 • Let's say this is my total revenue. Do a quick verification using Excel sheets for this.
 
@@ -125,15 +125,15 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 
 # Create Total Bookings Measure
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/2ae366ae8a6b2f07bf1634ef883392023d4c2ec7/Screenshot%2013.png)
 
 # Create Total Capacity Measure
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/2ae366ae8a6b2f07bf1634ef883392023d4c2ec7/Screenshot%2014.png)
 
 # Create Total Successful Bookings 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/2ae366ae8a6b2f07bf1634ef883392023d4c2ec7/Screenshot%2015.png)
 
 # 
 ![image_alt]()
