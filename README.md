@@ -148,7 +148,7 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 
 ![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/64b28a190ad4a1779f1ebf58bc949d0e32979862/Screenshot%2017.png)
 
-# Communicationg Insights :
+# Communicating Insights :
 
 # Property-Level Insights
 
