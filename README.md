@@ -71,6 +71,8 @@ Import Datasets into Power BI
 
 # Data Modeling
 
+# Star Schema
+
 • In data modeling, the star schema is used to organize data where the fact tables are placed at the center, containing measurable,
 quantitative data such as sales, revenue, or occupancy rates. Surrounding the fact tables are dimension tables 
 (prefixed with "dim_"), which contain descriptive attributes related to the facts.
@@ -139,6 +141,9 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 
 #   Note : Create all the other measures using the same approach as provided in the excel file metrics list (1).xlsx 
 #          with detailed description.
+
+
+# Build The Visuals and Dashboard in Power BI 
 
 ![image_alt]()
 
