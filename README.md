@@ -52,7 +52,7 @@ Import Datasets into Power BI
 
 • Promote the first row as header if its needed for the dim_rooms table.
 
-# Adding a Column For Weekdays and Weekends
+# Removing a Column For Weekdays and Weekends
 
 • In the dim_date table, based on discussions with the subject matter expert in the hotel industry, Friday and Saturday
   are considered weekends. However, the table currently defines weekends as Saturday and Sunday.
@@ -80,3 +80,12 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 ![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/9fe9f4b1a9ef29362a34899dad548ce5d5347cc9/Screenshot%205.png)
 
 # Building Metrics Using Dax
+
+# Adding a Column for Weekday and Weekend
+
+• In the dim_date table, you can create a new column to extract the week number without the 'W' prefix. You can either
+  modify the existing column by removing the 'W', or simply create a new column that directly derives the week number 
+  from the date column. To do this, go ahead and create a new column with the formula:
+
+  ![image_alt]()
+
