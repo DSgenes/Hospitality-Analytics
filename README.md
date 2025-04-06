@@ -143,8 +143,81 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 #          with detailed description.
 
 
+
 # Build The Visuals and Dashboard in Power BI 
 
 ![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/64b28a190ad4a1779f1ebf58bc949d0e32979862/Screenshot%2017.png)
 
-    
+# Communicationg Insights :
+
+# Property-Level Insights
+
+# Top Performing Properties (By Revenue)
+
+# Insight : 
+
+  Mumbai dominates the top revenue-generating properties, with AtliQ Exotica leading at ₹117M. Bangalore and Hyderabad 
+  properties are competitive but fall short of Mumbai’s yield.
+
+# Highest Rated Properties (Avg Rating)
+
+# Insight : 
+
+  Guest satisfaction is highest in Mumbai, with 4 of the 5 top-rated properties located there. This suggests a strong
+  correlation between high revenue and high guest satisfaction in that region.
+
+# Operational Observations :
+
+  These are insights related to how well the properties are functioning on a day-to-day basis, especially in terms of 
+  performance metrics like:
+
+• RevPAR (Revenue per Available Room) – Shows revenue efficiency.
+
+• Occupancy % – How many rooms are actually being booked.
+
+• ADR (Average Daily Rate) – What guests are paying on average.
+
+• Realisation % – How much potential revenue is actually realized.
+
+• Cancellations % – Lost business that could’ve been avoided.
+
+  Operational observations tell you what’s working (or not working) in the hotels' day-to-day performance — they help
+  decision-makers know where improvements are needed, or which strategies are succeeding.
+
+# Example:
+
+   AtliQ Palace in Mumbai has a high RevPAR and ADR — this means it's pricing rooms well and getting bookings — great 
+   operational efficiency."
+
+# RevPAR Leaders:
+
+• AtliQ Exotica (Mumbai): ₹10,629
+
+• AtliQ Palace (Mumbai): ₹10,592
+
+• AtliQ Exotica (second property): ₹10,107
+
+# Highest Occupancy Rates:
+
+• AtliQ Palace (Delhi): 66.3%
+
+• AtliQ Blu (Mumbai): 66.2%
+
+• AtliQ Exotica (Mumbai) : ~66.1%
+
+# Insight:
+
+  Properties with high RevPAR also have strong ADRs (Avg Daily Rate) like AtliQ Exotica (₹16,141) and AtliQ Palace (₹16,016), 
+  highlighting pricing power in Mumbai.
+
+# Areas for Improvement
+
+• Lowest Rated Properties:
+
+• AtliQ Grands (Hyderabad & Mumbai): ~3.05–3.06
+
+• AtliQ Blu (Bangalore): 3.08
+
+# Insight:
+
+  These properties may need service or facilities upgrades or guest experience improvements.
