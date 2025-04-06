@@ -100,12 +100,42 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 
 # Creating a Table for Measures 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/7833ebc83e21f21ebc639fb90f1c268853b74f68/Screenshot%209.png)
 
 # Creating Measures By Using Formulas
 
 • Click the ellipsis besides the Key Measures Table ➜ Create a new measure 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/7833ebc83e21f21ebc639fb90f1c268853b74f68/Screenshot%2010.png)
+
+• Build a card visual.
 
 ![image_alt]()
+
+• Show some decimal points.
+
+![image_alt]()
+
+• Let's say this is my total revenue. Do a quick verification using Excel sheets for this.
+
+    • Go to Excel Sheets : fact_bookings.csv ➜ Put your cursor to the Row no. 2 in the revenue_realized column then press 
+                             Ctrl + Shift + ↓ 
+      and it'll select the whole column. At the bottom, it'll show the sum of that number and the number
+      is exactly the same as its in Power bi Card Visual.
+
+# Create Total Bookings Measure
+
+![image_alt]()
+
+# Create Total Capacity Measure
+
+![image_alt]()
+
+# Create Total Successful Bookings 
+
+![image_alt]()
+
+# 
+![image_alt]()
+
+    
