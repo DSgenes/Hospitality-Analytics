@@ -87,5 +87,17 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
   modify the existing column by removing the 'W', or simply create a new column that directly derives the week number 
   from the date column. To do this, go ahead and create a new column with the formula:
 
-  ![image_alt]()
+  ![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/44a7f04c2c6edf1205c2b09453f561c3c04840ba/Screenshot%206.png)
 
+• To classify Friday and Saturday as weekends, use the following DAX formula:
+
+![image_alt]()
+
+  This formula labels Friday (6) and Saturday (7) as Weekend, while Sunday through Thursday are labeled as Weekday,
+  based on the hotel industry standards discussed. We'll expand this formula by using this DAX Expression : 
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
