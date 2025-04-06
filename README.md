@@ -110,7 +110,7 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 
 • Build a card visual.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/185ba6027f79850d3439c104cd590799c63d2133/Screenshot%2011.png)
 
 • Show some decimal points.
 
