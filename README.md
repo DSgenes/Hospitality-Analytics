@@ -1,4 +1,4 @@
-# Hospitality-Analytics
+![image](https://github.com/user-attachments/assets/e8a40c86-35bd-49b9-b7af-0f6fa9db48f7)# Hospitality-Analytics
 
 Domain:  Hospitality       Function: Revenue
 
@@ -13,13 +13,61 @@ Domain:  Hospitality       Function: Revenue
 
 # Task:  
 
-  You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task.
-  You can download all relevant documents from the download section.
+  Here is a brief overview of the workflow for the task:
 
-    • Create the metrics according to the metric list.
-    • Create a dashboard according to the mock-up provided by stakeholders.
-    • Create relevant insights that are not provided in the metric list/mock-up dashboard.
-
+    1. Review the data.
+    2. Metrics list :
+       • Revenue
+       • Total Bookings
+       • Average Rating
+       • Total Capacity
+       • Total Successful Bookings
+       • Occupancy % 
+       • Total Cancelled Bookings
+       • Cancellation Rate
+       • RevPar (Revenue Per Available Room)
+       • ADR (Average Daily Rate)
+       • ADR (Average Daily Rate)
+       • SRN (Sellable Room Nights)
+       • DSRN (Daily Sellable Room Nights)
+       • Realization
+       • URN (Utilized Room Nights)
+       • BRN (Booked Room Nights)
+     Key Metrics :
+       • RevPar 
+       • Occupancy %
+       • Revenue
+       • DSRN
+       • ADR
+       • Realization 
 --------------------------------------------------------------------------------------------------------------------------------
 
+# Step 1 : Data Collection and Preparation
+
+Import Datasets into Power BI
+
+# Step 2 : Data Exploration and Analysis
+
+• Duplicate the files one by one and then expand it use the similar approach for all the other files.
+
+• Promote the first row as header if its needed for the dim_rooms table.
+
+# Adding a Column For Weekdays and Weekends
+
+• In the dim_date table, based on discussions with the subject matter expert in the hotel industry, Friday and Saturday
+  are considered weekends. However, the table currently defines weekends as Saturday and Sunday.
+
+![image_alt]()
+
+• Right-click on the day_type column and select Remove to delete it. It is not needed.
+
+• It's a good practice to name steps as needed.
+
+![image_alt]()
+
+• Close & Apply to save the changes.
+
+![image_alt]()
+
+![image_alt]()
 
