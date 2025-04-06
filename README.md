@@ -75,8 +75,8 @@ Import Datasets into Power BI
 quantitative data such as sales, revenue, or occupancy rates. Surrounding the fact tables are dimension tables 
 (prefixed with "dim_"), which contain descriptive attributes related to the facts.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/9fe9f4b1a9ef29362a34899dad548ce5d5347cc9/Screenshot%204.png)
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/9fe9f4b1a9ef29362a34899dad548ce5d5347cc9/Screenshot%205.png)
 
 # Building Metrics Using Dax
