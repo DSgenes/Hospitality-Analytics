@@ -91,12 +91,12 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 
 • To classify Friday and Saturday as weekends, use the following DAX formula:
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/c9cdd18999b54b5cc1989aff85bec8f15e7933e1/Screenshot%207.png)
 
   This formula labels Friday (6) and Saturday (7) as Weekend, while Sunday through Thursday are labeled as Weekday,
   based on the hotel industry standards discussed. We'll expand this formula by using this DAX Expression : 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/c9cdd18999b54b5cc1989aff85bec8f15e7933e1/Screenshot%208.png)
 
 ![image_alt]()
 
