@@ -65,7 +65,7 @@ Import Datasets into Power BI
 
 • It's a good practice to name steps as needed.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/7d453b54afd3167a098ad735f42df89a524ee54c/Screenshot%203.png)
 
 • Close & Apply to save the changes.
 
