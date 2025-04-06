@@ -98,6 +98,14 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 
 ![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/c9cdd18999b54b5cc1989aff85bec8f15e7933e1/Screenshot%208.png)
 
+# Creating a Table for Measures 
+
+![image_alt]()
+
+# Creating Measures By Using Formulas
+
+• Click the ellipsis besides the Key Measures Table ➜ Create a new measure 
+
 ![image_alt]()
 
 ![image_alt]()
