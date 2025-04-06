@@ -57,9 +57,11 @@ Import Datasets into Power BI
 • In the dim_date table, based on discussions with the subject matter expert in the hotel industry, Friday and Saturday
   are considered weekends. However, the table currently defines weekends as Saturday and Sunday.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/381c572afbb4159a7f539a55c4058f727d73941c/Screenshot%201.png)
 
 • Right-click on the day_type column and select Remove to delete it. It is not needed.
+
+![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/381c572afbb4159a7f539a55c4058f727d73941c/Screenshot%202.png)
 
 • It's a good practice to name steps as needed.
 
