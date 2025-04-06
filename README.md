@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e8a40c86-35bd-49b9-b7af-0f6fa9db48f7)# Hospitality-Analytics
+# Hospitality-Analytics
 
 Domain:  Hospitality       Function: Revenue
 
