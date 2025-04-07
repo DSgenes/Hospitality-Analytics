@@ -44,7 +44,7 @@ Domain:  Hospitality       Function: Revenue
 
 # Step 1 : Data Collection and Preparation
 
-Import Datasets into Power BI
+• Import Datasets into Power BI
 
 # Step 2 : Data Exploration and Analysis
 
@@ -139,8 +139,7 @@ quantitative data such as sales, revenue, or occupancy rates. Surrounding the fa
 
 ![image_alt](https://github.com/DSgenes/Hospitality-Analytics/blob/2ae366ae8a6b2f07bf1634ef883392023d4c2ec7/Screenshot%2015.png)
 
-#   Note : Create all the other measures using the same approach as provided in the excel file metrics list (1).xlsx 
-#          with detailed description.
+#   Note : Create all the other measures using the same approach as provided in the excel file metrics list (1).xlsx  with detailed description.
 
 
 
