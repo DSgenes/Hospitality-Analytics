@@ -46,6 +46,16 @@ Domain:  Hospitality       Function: Revenue
 
 • Import Datasets into Power BI
 
+# Datasets :
+
+   1. dim_date
+   2. dim_hotels
+   3. dim_rooms
+   4. fact_aggregated_bookings
+   5. fact_bookings
+
+# Note : See the details of each data structure in meta_data_hospitality text file as provided above.
+
 # Step 2 : Data Exploration and Analysis
 
 • Duplicate the files one by one and then expand it use the similar approach for all the other files.
